@@ -1,1 +1,1 @@
-# AI-AP
+Ik heb gekozen om een kassasysteem te maken. Bij deze kassa is een medewerker en een klant aanwezig. Ook worden de producten van de klant aan de kassa toegevoegd. Deze kassa kan de bedragen van de producten opvragen en er wordt een totaalbedrag uitgerekend. Ook de medewerker en klant worden toegewezen aan een bepaalde kassa. Bij de verschillende classes zijn attributen opgeslagen. Niet alle attributen worden gebruikt, maar deze zouden eventueel wel van toepassing kunnen zijn.
